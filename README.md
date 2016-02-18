@@ -1,2 +1,4 @@
 # hello-world
-To learn how to use GitHub
+To learn why to use
+    deleted and replaced some words above;
+    new: something about myself
